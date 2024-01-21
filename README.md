@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hide-afk
+- 👀 I’m interested in coding and ethical hacking
+- 🌱 I’m currently learning coding (python,html,php) and linux usage
+- 📫 How to reach me: hide.afk on discord
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: ...
