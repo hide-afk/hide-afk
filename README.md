@@ -27,6 +27,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo"  />
@@ -76,7 +78,9 @@
 ###
 
 <div align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5Avf0H8kTOjCpSMmyssVby?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <a href="https://open.spotify.com/user/677rz8viyf7cce74g0su30tat">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=677rz8viyf7cce74g0su30tat&count=5" alt="Spotify recently played"  />
+  </a>
 </div>
 
 ###
