@@ -54,7 +54,7 @@
   <a href="https://www.linkedin.com/in/marc-abad-platas/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://paypal.me/DaikiKGFX" target="_blank" style="text-decoration: none;">
+  <a href="https://paypal.me/DaikiKGFX" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
   </a>
   <a href="https://www.instagram.com/marc.afk/" target="_blank">
@@ -76,9 +76,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/HideC0RE">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=HideC0RE&count=5" alt="Spotify recently played"  />
-  </a>
+  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5Avf0H8kTOjCpSMmyssVby?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
 ###
