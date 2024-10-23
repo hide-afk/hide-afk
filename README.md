@@ -76,3 +76,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hide-afk&show_icons=true&locale=en" alt="hide-afk" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hide-afk&" alt="hide-afk" /></p>
+# hide-afk
