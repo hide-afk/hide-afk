@@ -1,4 +1,4 @@
-<h1 align="center">Read about me</h1>
+<h1 align="center">About me</h1>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-
+[![Java Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/Java_logo.png)](https://www.java.com)
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
