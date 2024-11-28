@@ -10,7 +10,7 @@
 
 ###
 
-[![Java Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/Java_logo.png)](https://www.java.com)
+[![Java Logo](https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg)](https://www.java.com)
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
