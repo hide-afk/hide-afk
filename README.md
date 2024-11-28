@@ -9,11 +9,6 @@
 <h2 align="center">Coding languages & Softwares</h2>
 
 ###
-<style>
-  a {
-    text-decoration: none;
-  }
-</style>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
@@ -26,10 +21,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
   <img width="12" />
-  <a href="https://www.java.com">
+  
+  <a href="https://www.java.com" style="text-decoration: none;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <a/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" height="40" alt="apache logo"  />
   <img width="12" />
   <img src="https://nmap.org/images/nmap-logo-256x256.png" height="40" alt="nmap logo" />
