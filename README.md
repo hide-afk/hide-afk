@@ -64,9 +64,11 @@
 
 ###
 
-<div align="center">
-  ![hide-afk's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hide-afk&theme=dark&show_icons=true&hide_border=false&layout=compact)
-</div>
+
+![](https://github-readme-stats.vercel.app/api?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hide-afk&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ###
 
