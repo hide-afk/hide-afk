@@ -64,11 +64,17 @@
 
 ###
 
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=false&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=false&count_private=true"/>
+  </a>
+</div>
 
-![](https://github-readme-stats.vercel.app/api?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hide-afk&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
+<div align="center">
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+  </a>
+</div>
 
 ###
 
