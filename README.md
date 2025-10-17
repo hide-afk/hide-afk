@@ -38,30 +38,6 @@
 
 ###
 
-<p align="left"></p>
-
-###
-
-<h2 align="center">My social media</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/marc-abad-platas/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://paypal.me/DaikiKGFX" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/paypal/default.svg" width="52" height="40" alt="paypal logo"  />
-  </a>
-  <a href="https://www.instagram.com/marc.afk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<p align="left"></p>
-
 ###
 
 <div align="center">
