@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="center">My stack</h2>
+<h2 align="center">My learning stack</h2>
 
 ###
 
