@@ -52,7 +52,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
   <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/zapier-2.svg" height="40" alt="zapier logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zapier_logo.svg/2560px-Zapier_logo.svg.png" height="40" alt="zapier logo" />
   <img width="12" />
 </div>
 
