@@ -17,8 +17,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo" />
@@ -58,12 +56,6 @@
 
 
 ###
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=true&count_private=true">
-    <img src="https://github-readme-stats.vercel.app/api?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
 
 <div align="center">
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
