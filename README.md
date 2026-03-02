@@ -21,6 +21,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="aws logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
@@ -54,14 +60,6 @@
   <img width="12" />
 </div>
 
-
-###
-
-<div align="center">
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hide-afk&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
-  </a>
-</div>
 
 ###
 
