@@ -52,11 +52,7 @@
   <img width="12" />
    <img src="https://clickup.com/images/for-se-page/clickup.png" height="40" alt="clickup logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original-wordmark.svg" height="40" alt="kali linux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Zapier_logo.svg/2560px-Zapier_logo.svg.png" height="40" alt="zapier logo" />
+  <img src="https://svgl.app/library/aws_dark.svg" height="40" alt="aws logo" />
   <img width="12" />
 </div>
 
